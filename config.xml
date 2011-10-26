@@ -15,12 +15,12 @@
 		Sylvain Mazaleyrat
 	</author>
 
-	<gap:platforms>
+	<!--gap:platforms>
 		<gap:platform name="android" minVersion="2.1" />
 		<gap:platform name="webos" />
 		<gap:platform name="symbian.wrt" />
 		<gap:platform name="blackberry" project="widgets"/>
-	</gap:platforms>
+	</gap:platforms-->
 
 	<icon src="icon.png" gap:role="default" />
 
